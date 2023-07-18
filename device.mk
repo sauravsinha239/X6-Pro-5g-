@@ -119,6 +119,7 @@ PRODUCT_PACKAGES += \
     init.mt6897.usb.rc \
     init.mtkgki.rc \
     init.project.rc \
+    init.recovery.mt6897.rc \
     init.sensor_2_0.rc \
     ueventd.mtk.rc
 
